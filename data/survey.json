@@ -1,0 +1,4 @@
+{
+    "title":"Survey",
+   "image":"todos.png",
+   "data": [{"question":"¿Cuál de estos lenguajes es tu favorito?","image":"todos.png","lifetimeSeconds":10,"options":[{"text":"Javascript"},{"text":"Java"},{"text":"C#"}]},{"question":"¿Cuál de estos lenguajes aprendiste a usar de primero?","image":"todos.png","lifetimeSeconds":5,"options":[{"text":"Javascript"},{"text":"Java"},{"text":"C#"}]},{"question":"¿Cuál de estos lenguajes es el más usado?","image":"todos.png","lifetimeSeconds":5,"options":[{"text":"Javascript"},{"text":"Java"},{"text":"C#"}]}]}

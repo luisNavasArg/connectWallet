@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="283"
+   height="64"
+   viewBox="0 0 283 64"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="vercel.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1049">
+      <stop
+         style="stop-color:#800080;stop-opacity:1;"
+         offset="0"
+         id="stop1045" />
+      <stop
+         style="stop-color:#800080;stop-opacity:0;"
+         offset="1"
+         id="stop1047" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient990">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop986" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0;"
+         offset="1"
+         id="stop988" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient990"
+       id="linearGradient992"
+       x1="9.6011663"
+       y1="27.831355"
+       x2="110.96581"
+       y2="60.9161"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1049"
+       id="linearGradient1051"
+       x1="262.34692"
+       y1="63.899151"
+       x2="98.762413"
+       y2="29.187286"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="119.05085"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:50.5211px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.26303"
+     x="4.6674652"
+     y="45.938038"
+     id="text345"><tspan
+       sodipodi:role="line"
+       id="tspan343"
+       x="4.6674652"
+       y="45.938038"
+       style="stroke-width:1.26303">Luis Navas</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:50.5211px;line-height:1.25;font-family:sans-serif;fill:url(#linearGradient992);fill-opacity:1;stroke:none;stroke-width:1.26303"
+     x="4.6674652"
+     y="45.938038"
+     id="text399"><tspan
+       sodipodi:role="line"
+       id="tspan397"
+       x="4.6674652"
+       y="45.938038"
+       style="stroke-width:1.26303;fill-opacity:1;fill:url(#linearGradient992)">Luis Navas</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:50.5211px;line-height:1.25;font-family:sans-serif;fill:url(#linearGradient1051);fill-opacity:1;stroke:none;stroke-width:1.26303"
+     x="4.6674652"
+     y="45.938038"
+     id="text1043"><tspan
+       sodipodi:role="line"
+       id="tspan1041"
+       x="4.6674652"
+       y="45.938038"
+       style="stroke-width:1.26303;fill-opacity:1;fill:url(#linearGradient1051)">Luis Navas</tspan></text>
+  <rect
+     style="fill:#800080;fill-opacity:1;stroke:#000000;stroke-width:5.12196;stop-color:#000000"
+     id="rect1848"
+     width="94.878036"
+     height="17.100267"
+     x="15.192446"
+     y="-50.434669" />
+</svg>
